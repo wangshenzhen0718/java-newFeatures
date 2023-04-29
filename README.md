@@ -1,2 +1,2 @@
-# java8-learning
-java8学习记录
+# java-newFeatures
+java新特性学习记录
